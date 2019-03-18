@@ -1,1 +1,1 @@
-Hello test!
+Hello test Check if you want to verify the account again after the second submission !
